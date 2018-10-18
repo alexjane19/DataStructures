@@ -1,0 +1,16 @@
+bool Tree :: Full()
+{
+    int NumberOfThisTree=NumberOfNode();     
+
+    int Level=TreeLevel();	  	     
+    
+    int Sum=0;
+
+    for(int j=0;j<=i;j++)
+        Sum+=pow(2,i)
+
+    if(NumberOfThisTree==Sum);    
+        return true;
+
+    return false;
+}
